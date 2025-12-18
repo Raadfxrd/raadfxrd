@@ -10,3 +10,7 @@
 /httpRequests/
 
 ../.idea
+/copilot.data.migration.ask2agent.xml
+/modules.xml
+/raadfxrd.iml
+/vcs.xml
